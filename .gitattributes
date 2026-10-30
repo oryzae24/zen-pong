@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.png binary
+*.fzz binary
+hardware/*.svg linguist-generated=true
+hardware/*.fzz linguist-generated=true

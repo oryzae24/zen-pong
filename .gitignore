@@ -1,0 +1,13 @@
+# Build, temporary and OS files
+build/
+__pycache__/
+*.class
+*.log
+*~
+.DS_Store
+Thumbs.db
+
+# Local settings
+.env
+.env.*
+local.*
